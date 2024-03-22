@@ -1,1 +1,0 @@
-{"name":"Local: B_Remove_It","url":"e:\\xpsc\\week_2\\Day_1\\B_Remove_It.cpp","tests":[{"id":1711094187884,"input":"5 5\n3 5 6 5 4\n","output":"3 6 4\n"},{"id":1711094213070,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\xpsc\\week_2\\Day_1\\B_Remove_It.cpp","group":"local","local":true}
